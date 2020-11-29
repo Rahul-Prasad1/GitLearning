@@ -3,5 +3,7 @@ public class ForLoop{
  for(int i=0;i<5;i++){
  System.out.println("Yahoo");
  }
+ System.out.println("Completed");
+ System.out.println("Something is updated"); 
 }
 }
